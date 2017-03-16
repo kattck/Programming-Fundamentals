@@ -1,3 +1,3 @@
-#Readme
+# Readme
 
-This is Programming Fundamentals with Code Snippets from C++ and Python files
+Programming fundamentals used with C++ Language
